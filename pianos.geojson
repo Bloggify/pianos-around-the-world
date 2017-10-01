@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Piano in the park. Not available during the Winter time."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.934445500373837,
+          47.055839345969574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Piano in the airport. Gates 1-5."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.48547899723053,
+          35.85478312683438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Piano in a small hostel. I guess it's roof 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51361111,
+          35.86583333
+        ]
+      }
+    }
+  ]
+}
