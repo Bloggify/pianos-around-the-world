@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Piano in the park. Not available during the Winter time."
+        "description": "Piano in the park. Not available during the Winter time.",
+        "type": "park"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Piano in the airport. Gates 1-5."
+        "description": "Piano in the airport. Gates 1-5.",
+        "type": "airport"
       },
       "geometry": {
         "type": "Point",
@@ -30,13 +32,56 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Piano in a small hostel. I guess it's roof 1."
+        "description": "Piano in a small hostel. I guess it's roof 1.",
+        "type": "hotel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           14.51361111,
           35.86583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Yamaha Music Station – A music shop. Very friendly people.",
+        "type": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.628851,
+          13.022056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Music Palace – A music shop. Very friendly people.",
+        "type": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.401003,
+          17.495778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Barbara Music Shop – A music shop. A very friendly old man was there and was happy to play piano at four hands.",
+        "type": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.480375,
+          35.890820
         ]
       }
     }
