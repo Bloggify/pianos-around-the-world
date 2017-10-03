@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Piano in the airport",
+        "description": "Piano in the airport. Gates area.",
         "type": "airport"
       },
       "geometry": {
