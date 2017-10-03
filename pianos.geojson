@@ -84,6 +84,20 @@
           35.890820
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Piano in the airport",
+        "type": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0983932,
+          38.1824001
+        ]
+      }
     }
   ]
 }
