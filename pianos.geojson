@@ -98,6 +98,20 @@
           38.1824001
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Piano outside business in downtown",
+        "type": "business"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.618375,
+          44.763879
+        ]
+      }
     }
   ]
 }
