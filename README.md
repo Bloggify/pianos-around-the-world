@@ -3,7 +3,7 @@
 :musical_keyboard:  Community-maintained list of pianos around the world, placed on the map. Contributions are welcome!
 
 
-[![](https://i.imgur.com/GqHmWQ2.png)](https://github.com/IonicaBizau/pianos-around-the-world/blob/master/pianos.geojson)
+[![](https://i.imgur.com/JLNRNB6.png)](https://github.com/IonicaBizau/pianos-around-the-world/blob/master/pianos.geojson)
 
 ## Contributing
 
