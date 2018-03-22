@@ -22,8 +22,6 @@ You can use the `properties` field to add notes.
  - `description`: The description of the location (explain how to reach the piano)
  - `source`: How did you find about this piano? It can be a link.
 
---
-
 **Optional**
 
  - `photo`: Url to an image with the piano
