@@ -635,5 +635,37 @@
                 33.7994002
             ]
         }
-    }]
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "title": "Westquay, Southampton, UK",
+            "description": "Piano at 1st floor",
+            "source": "Piano Map Contributors",
+            "year": "2018"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.4057689396727255,
+                50.9040329380269
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "title": "7 University Rd, Southampton SO17 1TR, UK",
+            "description": "Piano in Building 32, 3rd floor",
+            "source": "Piano Map Contributors",
+            "year": "Coming soon..."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.3966711322715355,
+                50.935820138643194
+            ]
+        }
+    }
 }
