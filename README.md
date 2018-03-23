@@ -2,7 +2,7 @@
 
 :musical_keyboard:  Community-maintained list of pianos around the world, placed on the map. Contributions are welcome!
 
-Used by: https://pianos.bloggify.org
+Used by: https://pianos.bloggify.io
 
 [![](https://i.imgur.com/VTvDrWh.png)](https://github.com/IonicaBizau/pianos-around-the-world/blob/master/pianos.geojson)
 
@@ -10,7 +10,7 @@ Used by: https://pianos.bloggify.org
 
 [Edit `pianos.geojson`](https://github.com/IonicaBizau/pianos-around-the-world/edit/master/pianos.geojson) to add a new piano on the map.
 
-:bulb: You can use [GeoJSON.io](http://geojson.io/) to create new points or simply use the graphical interface on [Piano Maps](https://pianos.bloggify.org).
+:bulb: You can use [GeoJSON.io](http://geojson.io/) to create new points or simply use the graphical interface on [Piano Maps](https://pianos.bloggify.io).
 
 ## Properties
 
