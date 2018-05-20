@@ -4,7 +4,7 @@
         "type": "Feature",
         "properties": {
             "year": 2017,
-            "title": "Parcul Libertății",
+            "title": "Parcul LibertÄƒÈ›ii",
             "source": "http://www.ebihoreanul.ro/stiri/ultima-or-31-13-19-41/culoare-si-muzica-florarul-marius-sabau-a-pus-o-pianina-in-parcul-libertatii-ca-sa-aiba-elevii-si-studentii-unde-sa-exerseze-134341.html",
             "description": "Piano in the park. Not available during the Winter time.",
             "type": "park",
@@ -665,6 +665,37 @@
             "coordinates": [
                 -1.3966711322715355,
                 50.935820138643194
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "source": "Johnny B.@https://ionicabizau.net",
+            "year": "2018"
+            "title": "Digital Piano at IBIS Hotel",
+            "description": "At the reception they have a Yamaha YDP143.\n\nBtw, there is a acoustic guitar too.",
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.090424286817097,
+                48.89624243006034
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "source": "Johnny B.@https://ionicabizau.net",
+            "year": "2018",
+            "title": "Digital Piano at IBIS Hotel",
+            "description": "At the reception they have a Yamaha YDP143.\n\nBtw, there is a acoustic guitar too.",
+            "website": "https://www.booking.com/hotel/fr/ibis-saint-germain-en-laye.en-gb.html"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.090424286817097,
+                48.89624243006034
             ]
         }
     }]
