@@ -1,716 +1,717 @@
 {
-    "type": "FeatureCollection",
-    "features": [{
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "title": "Parcul LibertÄƒÈ›ii",
-            "source": "http://www.ebihoreanul.ro/stiri/ultima-or-31-13-19-41/culoare-si-muzica-florarul-marius-sabau-a-pus-o-pianina-in-parcul-libertatii-ca-sa-aiba-elevii-si-studentii-unde-sa-exerseze-134341.html",
-            "description": "Piano in the park. Not available during the Winter time.",
-            "type": "park",
-            "rating": 5
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                21.934445500373837,
-                47.055839345969574
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "title": "Malta Airport",
-            "website": "https://www.maltairport.com/",
-            "source": "Johnny B.@https://ionicabizau.net",
-            "description": "Piano in the airport. Gates 1-5.",
-            "type": "airport",
-            "rating": 5
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.48547899723053,
-                35.85478312683438
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "Johnny B.@https://ionicabizau.net",
-            "description": "Piano in a small hostel. I guess it's roof 1.",
-            "type": "hotel",
-            "rating": 5
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.51361111,
-                35.86583333
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "Johnny B.@https://ionicabizau.net",
-            "website": "http://www.yamahamusicstation.com",
-            "description": "A music shop. Very friendly staff.",
-            "type": "shop",
-            "rating": 5,
-            "title": "Yamaha Music Station"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                77.628851,
-                13.022056
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "Johnny B.@https://ionicabizau.net",
-            "description": "A music shop. Very friendly people.",
-            "website": "http://www.newmusicpalace.co.in/",
-            "type": "shop",
-            "rating": 5,
-            "title": "Music Palace"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                78.401003,
-                17.495778
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "Johnny B.@https://ionicabizau.net",
-            "description": "A music shop. A very friendly old man was there and was happy to play piano at four hands.",
-            "type": "shop",
-            "title": "Barbara Music Shop",
-            "website": "http://www.barbaramusicshop.com/",
-            "rating": 5
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                14.480375,
-                35.890820
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "@dlion@https://github.com/Bloggify/pianos-around-the-world/pull/5",
-            "description": "Piano in the airport. Gates area.",
-            "type": "airport",
-            "title": "Falcone-Borsellino Airport",
-            "website": "http://www.gesap.it/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                13.0983932,
-                38.1824001
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "title": "Grand Traverse Regional Comm",
-            "description": "Piano outside business in downtown.",
-            "type": "business",
-            "source": "@knownasilya@https://github.com/Bloggify/pianos-around-the-world/pull/6"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-85.618375,
-                44.763879
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "Johnny B.@https://ionicabizau.net",
-            "website": "http://www.restvegan.ro",
-            "type": "restaurant",
-            "title": "Restaurant Cris",
-            "rating": 5,
-            "description": "A vegan restaurant. They have an upright piano."
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                21.940003,
-                47.053106
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": 2017,
-            "source": "Johnny B.@https://ionicabizau.net",
-            "title": "Mozart Cafe Cluj",
-            "website": "http://mozartdelicatesse.ro/",
-            "description": "Restaurant/cafe shop with a cute piano. The piano is not well tuned, but if you want to play it, ask the staff and they will let you play. It will take some time to get used to the sound and eventually it will sound good enough.",
-            "type": "cafe",
-            "rating": 4
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                23.583209,
-                46.770490
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Herne Hill",
-            "description": "Featured in the film, this beautiful and unique piano was introduced to Herne Hill Station in 2012. It can be found in the underpass, just next to the flower shop.\nA recent Crowdfunding campaign run by the Herne Hill Forum raised enough money to enable a brand new piano to be bought for location - and will be introduced in early October!\n",
-            "image": "https://lh5.googleusercontent.com/proxy/7L_W-TFgUymEbZ0ytploxLPIGeBYXHRiWidG8XvJeF2tjtlj4TYZzGN027pSw6u4_2D68cLOjMaYEy7Mfd4pGNotRHXszlseUbU0O5X4GG0gyB1CLKSwqQ",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.10226,
-                51.4533
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "St Pancras, The Arcade",
-            "description": "Situated next to the Eurostar entrance on the main shopping arcade, this great sounding piano is very well maintained by the station, and extremely popular with commuters passing through. \nThe first piano here was introduced in 2009, and unlike some of the other public pianos, it is accessible throughout the night.",
-            "image": "https://lh3.googleusercontent.com/proxy/h5lURQRvlG-GVh17KpJfv5giALBW6F93eTqsu_SA_dXNJjWxjKKX7nbR2jWfGNkwdiYQ8VgDzVDWe5wrHH_l4daJJmVn247Rngd5LmfboC75TCsAnMCI",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.126133,
-                51.531427
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "St Pancras no. 2, The Arcade",
-            "description": "There are three pianos in total at St Pancras International. This one is further down towards the trains, next to the MAC shop. \n\nLike the other two pianos and the station that they're in, this piano is available to use 24 hours a day. ",
-            "image": "https://lh4.googleusercontent.com/proxy/BQ1Omaftqp9bYMezLjCu0zvPaEwQxe5i-xQlhGU056J2tjWU-napQloLEDo2Szcgvh11DhQEadJBWhSfC7fY4F55SLac2AYP21hwiB2-g8_e0N83aIeE4eqPS2P9pqP0ZaKj4SwD",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.1265144,
-                51.531801
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "St Pancras no. 3",
-            "description": "This last St Pancras piano is, like the other two, maintained by the station. At the moment it's located just by the Starbucks, overlooking the escalators that go down to the underground or up to platforms 11-13.",
-            "image": "https://lh4.googleusercontent.com/proxy/hHzRTJ3460BG7Yl6GGdQUvw4ecfhoJ6VcqbB_gTdor0CWK30tGTQS2GOm4OcKlmDMft8AX4rTL2qI34nl-rXvNu8yzQemWFFtg0v0GWj-48HOBjvhcGD",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.1263642,
-                51.5324417
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "The Oracle, Reading",
-            "description": "This piano is situated just outside the Five Guys restaurant in the Oracle shopping centre, up on the first floor. \nIt's another great sounding, relatively new piano, available for all to play during the centres opening hours. ",
-            "image": "https://lh5.googleusercontent.com/proxy/bEDacZzbyecDCH6UlnS595yWKvd6dGRpBKL8uMu3pod9JPiuawogsM5qwyen8oJrYeLtAaecoqtkA7jCJwLJ0obMwuwf81gffzPngA7mZHuVi-OBUC7F3fvDeeEd",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.9717858,
-                51.4531846
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Forest Hill",
-            "description": "The Forest Hill piano is just by the station under the bicycle shelter. It was introduced as part of the 'Jack in the Box' community project. \nSee the Forest Hill society's website: http://www.foresthillsociety.com/2014/04/forest-hill-street-piano.html",
-            "image": "https://lh5.googleusercontent.com/proxy/Vu3jngq5cbpr4XRpfdNAPko9FyokCzjhpyHoOkJ---MODwSBlMnFaaUIs2ZWB7onaHZ8HQRJ8WUqpIvsQUUPQzqjIBth0fX4UveWDrtKmGN8TjLcDL2CORDfGkS9eqg2yg",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.0535235,
-                51.4392327
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Crossrail Place Sky Garden, Canary Wharf",
-            "description": "You can find this piano upstairs in the Crossrail Place building. It moves about, so you might have to look around but it shouldn't be too tricky. \n\nIn the past Fabio Tedde - the 'Pianist Without Borders', who features in our doc - has called impromptu jam sessions here. The second and third pictures are of one such evening, and if he calls some more we HIGHLY recommend you going if you can!! Have a look at Fabio's website here: http://www.pianistwithoutborders.com/",
-            "image": "https://lh6.googleusercontent.com/proxy/vXuEI2SMqQVim8Z8O75G80DnoF684j3GDOjXQYKlNXbd8aCHUQRViwKV-mAGm2FvdkTRW70syFoQysMmnzknHdNOE6NLUaI1I10Z7R0aK4RNmS8GEmEz",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.0163642,
-                51.5059946
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Marylebone Station",
-            "description": "This upright in Marylebone National Rail station is lovely and not used very often - maybe a good option if you want to get some playing time. We've heard that it was donated to the station by a train driver who thought it would be a welcome addition for commuters and station workers alike. \n\nIf you have time, have a look at this really great feature in the Marylebone Journal who interviewed a few players: http://www.marylebonevillage.com/marylebone-journal/key-workers\n",
-            "image": "https://lh3.googleusercontent.com/proxy/hopuZLn8uILytAMwQBQ7tYW_9Qka7OEsnKRTFS9bgUczORvlT9R3WJ9kKMvLxJ-VSFSg4msnh1MPbFykUNdfac_HeEk7rU5oFk7B6GVgTDRbQqtDUc0E",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.1632761,
-                51.5225573
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Crossrail Place West End Lobby, First Floor, Canary Wharf",
-            "description": "This piano is amazing. It was designed by Stelios Manganis as part of Canary Wharf's Play Me, I'm Your's exhibition by Luke Jerram in 2015. \n\nHave a look at Manganis' website - he's done some really interesting stuff: http://www.steliosmanganis.com/\n",
-            "image": "https://lh3.googleusercontent.com/proxy/dTA-eW8HkHcl2oofSO9hRkjfALQxJEgdJJaCQm18NNBjCSQmqef7mg68IUSb47RVFzBtM7cYrGF_2OxRnSh_Jdic21Rby3SH2YJhoxO9aUa9WVKTUMuO",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.019033,
-                51.5062817
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Sheffield Train Station",
-            "description": "There are TWO lovely upright pianos in Sheffield train station available to play. They are opposite the Upper Crust and Caffe Ritazza. ",
-            "image": "https://lh4.googleusercontent.com/proxy/grlBm_d-q8H5aMitpRtMgOs11FhDMmSK6LCMJukjO-2yZKTGxNFoVH0pymYIq_5gg6m1hSiaZWSc1_ac2fp74M2fKjecEl6vV8EpY-cGhJ9wFwWoLRUyz3wm8-Xqz2suK9AGMTJW",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-1.4629468,
-                53.3780284
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Brighton Station",
-            "description": "Brighton Train Station's upright street piano can be found just by one of the main entrances, by the Upper Crust.",
-            "image": "https://lh6.googleusercontent.com/proxy/Rb_H7Hhzl8gCVc82iL21SarRtNeld_JplcBFUITFYEMOwXBk66Ldeot4OQ71JemY2a0OucM1PbhMHVv5XDU41qAHK2cjoV89V-6mMniANsnXci66mUFbluXs4M4WwsuIbDK9HJXb",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.14125,
-                50.829
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Heathrow Airport Terminal 4",
-            "description": "We've heard this piano is great to play - but also that it moves around a lot! If you know it's current exact location let us know! (on twitter @livestreetpiano or facebook Instrument of Change: Street Piano)",
-            "image": "https://lh4.googleusercontent.com/Hm6wrhgyB0dD6lvHlAjt_CwWrH_kp_JN8G6IlRsZZ67Oovv0v2_QpH5-7Vyry3_EmiRnnJI5nS-BMJFVwliSvRyXbmvY3r4-XQbb8Iq77klagm5dLk9Vi5R4l_ljR4wH",
-            "source": "http://streetpianofilm.co.uk/street-piano-map/"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [-0.4474782,
-                51.4596099
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Chastain Park",
-            "description": "Find and play \"Janssen\" in the pavilion next to the playground. (Dudley Lane and W. Wieuca Rd.).  Artist:  Sergey Cherep.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh4.googleusercontent.com/TobNAy47qaOQUbKAQ8Zwoi0OyN_DmZ8Xd1G5gvD4PbQBOh3IH0glsYNZ-MAYfBEowJaGPyqcbxrCrsQxD-Z36ehuapMAbIboTRp4P5xtPNC4aCzx6Hdg0u4S5vVEpaf9",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.3894333,
-                33.8773352
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Woodruff Arts Center-Sifly Piazza",
-            "description": "Find and play \"Carly\" in the breezeway at the North entrance to the Memorial Arts Building, by the Box Office. Artists: Theresa Dean, Courtney Denis, Springmont School students, alumni and faculty.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org)",
-            "image": "https://lh3.googleusercontent.com/S3Z9DkgibXECHWP1cuj_58vt7bXuYxIwwT3__Xn1KKCY8Xfd-D0ZlZDssQ210yymSo35h6IGbiqkBqX7ywxIPZGM9lpihKaH41WqaiOvqHcigDOFm7-M5B3rmYOoNk8",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.38565399999999,
-                33.790052
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Woodruff Arts Center-Callaway Plaza",
-            "description": "Find and play \"Liam\" along the south side of the Memorial Arts building near the door to the Symphony Store, opposite the Robert Woodruff statue. (Peachtree Street, near the corner of 15th Street.)  Artist: Liam Agans. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh4.googleusercontent.com/nV4vH7RlPHCgiAU_zv8FBZo5GbyyzDtZf7qtq_KSuDtddjVFpTJ6pXNl_hE_R-EErCwGXyuhKAGZ5ye0qYub0hBp40x5LwXCg1IoEKQaJrEdzI6K4cE1mBu9Z2u8HfAD",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.38565399999999,
-                33.790052
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Colony Square",
-            "description": "Find and play \"Harmony\" in the plaza off Peachtree Street near the MIDTOWN letters. Artist:  Max Lebven.  Due to a local noise ordinance, please refrain from playing Harmony after 8pm.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh3.googleusercontent.com/BE4XMHDNB_wh8yiEVuLufXsj4KpZENohX2vWz-dIq_dswPnimqG1SZ_y1GPjTPncYvf_2DLvjcFx-lhzzL3-Ra3QWffn5ZQifvXBiM3bnBolPcCWKc9t098wHZkRMnnK",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.38269960000002,
-                33.78694409999999
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Dunwoody Nature Center",
-            "description": "Find and play \"Bennett\" along Wildcat Creek, across from the Meadow.  Artist:  Kelly Thames Mauldin.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh4.googleusercontent.com/XMvejmVTNEZs2LJtLujyjEu6Xd8xCP0fhHT8hQXWkle8mjWD4oQdY7ag8chYfeA6Tv50EDOVOoefznP3_kk6tmSF6BsQp2DKrCynZyDhv_cMx3QloklwZSYnu2XLCac",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.33284100000003,
-                33.9566697
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Chamblee Rail Trail",
-            "description": "Find and play \"Irving\" on the Rail Trail under Clairmont Rd near Peachtree Industrial Blvd behind the Chamblee Tucker Rd Wal-Mart.  Designed by Kent Nulty of ARTSCAPE!.  Painted by the Chamblee community during the Rail Trail Makers Festival 2017.   Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.3127619,
-                33.8882418
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Ashford Park, Brookhaven",
-            "description": "Find and play \"Aragon\" on the porch of the community building.  Artist:  Doug Smith and the Midtown International School Arts Department and students.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh3.googleusercontent.com/mBH4w1izRA50OQY9EdUm0iCQom6NaS37MgM2R9wYEZ9t2rLZCofW6eLOVfR6KN5mus3fYsgz-oxeIdmXxk6BgILkCSsjI2a7wKv0BcHBYzPKRLI3GzvPxMhTlqry2QMO",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.3173878,
-                33.8721275
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "East Cobb Park",
-            "description": "Find and play \"Sunny\" in the Upper Pavilion near the maintenance building. Artist:  Kent Nulty, Contributing Artists:  the 2017 ARTSCAPE! summer campers. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh6.googleusercontent.com/1q2pJ6hSYl1seV8jNxKt2NVTrVC9dNTWLNnThxQULjLh1KFp7D1_vBWnloDkiUnagHCqmaevSckO6JFxxmlhmWaiWJV_uznpBdAdkLcFUYK35Gof4_CO1wzg1dUoVNXHMw",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.452741,
-                33.9778026
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Ponce City Market",
-            "description": "Find and play \"Cornelius\" on the 3rd level of Ponce City Market near the Bike Valet just off the BeltLine.  Artist Theresa Dean.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "image": "https://lh3.googleusercontent.com/Qfe0tl2tXqz-nFdEDdDpK7jGCTRVTXLrUwMGnNmzcgMFYR47SLWckHpXFaRHWba2nPKapesm53DiGMa5Aad2JdwVbjg2dQJVd02LozgLpWqHdRiZpNfcHTVlY_ntqA7Z",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.36652700000002,
-                33.77194589999999
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Regal Cinemas Atlantic Station 18 IMAX & RPX",
-            "description": "Find and play \"Dottie\" by the box office.  Artist:  Aleigha Reott.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.39624900000001,
-                33.793795
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Cogburn Road Park",
-            "description": "Find and play \"Flannery\" under the pavilion. Artist: Wendi Schutt. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.28484349999997,
-                34.0939914
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Egg Harbor Cafe, East Cobb",
-            "description": "Find and play \"Tommy\" in front of the restaurant. Artist: Angela Decker Lockman. Contributing Artists:  Cate McCoy and Aubrey Ward.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.41515679999998,
-                33.9661525
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Sam Flax Art Supply",
-            "description": "Indoor piano.  Artist:  Tania Jones.  Placed courtesy of Pianos For Peace.",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.39211820000003,
-                33.8009176
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "MARTA Arts Center Station",
-            "description": "Located on The Porch at the Arts Center Station.  Artist:  Jeremy Ray.  Placed courtesy of the Midtown Alliance.",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.38700779999999,
-                33.789304
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Von Maur Department Store in Perimeter Mall",
-            "description": "Indoor grand piano on the 1st floor near the escalator.",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "2016"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.34266939999998,
-                33.9245628
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "title": "Wills Park Equestrian Center",
-            "description": "Coming soon. Find and play the piano in the food pavilion. Artist: Sandy Barth. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "Coming soon..."
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.31176240000002,
-                34.0690489
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Rock Mill Park",
-            "description": "Coming soon. Find and play the piano in the pavilion. Artist: Ben Hollingsworth. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "Coming soon..."
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.2709165,
-                34.0521279
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Peachtree Station",
-            "description": "No description.",
-            "source": "http://www.playmeagainpianos.org/map/",
-            "year": "Coming soon..."
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -84.39259700000002,
-                33.7994002
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "Westquay, Southampton, UK",
-            "description": "Piano at 1st floor",
-            "source": "Piano Map Contributors",
-            "year": "2018"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -1.4057689396727255,
-                50.9040329380269
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "title": "7 University Rd, Southampton SO17 1TR, UK",
-            "description": "Piano in Building 32, 3rd floor",
-            "source": "Piano Map Contributors",
-            "year": "Coming soon..."
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -1.3966711322715355,
-                50.935820138643194
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "source": "Johnny B.@https://ionicabizau.net",
-            "year": "2018",
-            "title": "Digital Piano at IBIS Hotel",
-            "description": "At the reception they have a Yamaha YDP143.\n\nBtw, there is a acoustic guitar too.",
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.090424286817097,
-                48.89624243006034
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "source": "Johnny B.@https://ionicabizau.net",
-            "year": "2018",
-            "title": "Digital Piano at IBIS Hotel",
-            "description": "At the reception they have a Yamaha YDP143.\n\nBtw, there is a acoustic guitar too.",
-            "website": "https://www.booking.com/hotel/fr/ibis-saint-germain-en-laye.en-gb.html"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.090424286817097,
-                48.89624243006034
-            ]
-        }
-    }, {
-        "type": "Feature",
-        "properties": {
-            "year": "2019",
-            "title": "Gare de l'Est",
-            "description": "Place du 11 novembre 1918, 75010 Paris, France -- Piano en libre service\n\nSitué dans le Hall Central"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                2.3593812954898086,
-                48.87681367060976
-            ]
-        }
-    }]
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"title": "Parcul LibertÄƒÈ›ii",
+				"source": "http://www.ebihoreanul.ro/stiri/ultima-or-31-13-19-41/culoare-si-muzica-florarul-marius-sabau-a-pus-o-pianina-in-parcul-libertatii-ca-sa-aiba-elevii-si-studentii-unde-sa-exerseze-134341.html",
+				"description": "Piano in the park. Not available during the Winter time.",
+				"type": "park",
+				"rating": 5
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.934445500373837,
+					47.055839345969574
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"title": "Malta Airport",
+				"website": "https://www.maltairport.com/",
+				"source": "Johnny B.@https://ionicabizau.net",
+				"description": "Piano in the airport. Gates 1-5.",
+				"type": "airport",
+				"rating": 5
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.48547899723053,
+					35.85478312683438
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "Johnny B.@https://ionicabizau.net",
+				"description": "Piano in a small hostel. I guess it's roof 1.",
+				"type": "hotel",
+				"rating": 5
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.51361111,
+					35.86583333
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "Johnny B.@https://ionicabizau.net",
+				"website": "http://www.yamahamusicstation.com",
+				"description": "A music shop. Very friendly staff.",
+				"type": "shop",
+				"rating": 5,
+				"title": "Yamaha Music Station"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					77.628851,
+					13.022056
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "Johnny B.@https://ionicabizau.net",
+				"description": "A music shop. Very friendly people.",
+				"website": "http://www.newmusicpalace.co.in/",
+				"type": "shop",
+				"rating": 5,
+				"title": "Music Palace"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					78.401003,
+					17.495778
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "Johnny B.@https://ionicabizau.net",
+				"description": "A music shop. A very friendly old man was there and was happy to play piano at four hands.",
+				"type": "shop",
+				"title": "Barbara Music Shop",
+				"website": "http://www.barbaramusicshop.com/",
+				"rating": 5
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					14.480375,
+					35.890820
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "@dlion@https://github.com/Bloggify/pianos-around-the-world/pull/5",
+				"description": "Piano in the airport. Gates area.",
+				"type": "airport",
+				"title": "Falcone-Borsellino Airport",
+				"website": "http://www.gesap.it/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					13.0983932,
+					38.1824001
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"title": "Grand Traverse Regional Comm",
+				"description": "Piano outside business in downtown.",
+				"type": "business",
+				"source": "@knownasilya@https://github.com/Bloggify/pianos-around-the-world/pull/6"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.618375,
+					44.763879
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "Johnny B.@https://ionicabizau.net",
+				"website": "http://www.restvegan.ro",
+				"type": "restaurant",
+				"title": "Restaurant Cris",
+				"rating": 5,
+				"description": "A vegan restaurant. They have an upright piano."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					21.940003,
+					47.053106
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": 2017,
+				"source": "Johnny B.@https://ionicabizau.net",
+				"title": "Mozart Cafe Cluj",
+				"website": "http://mozartdelicatesse.ro/",
+				"description": "Restaurant/cafe shop with a cute piano. The piano is not well tuned, but if you want to play it, ask the staff and they will let you play. It will take some time to get used to the sound and eventually it will sound good enough.",
+				"type": "cafe",
+				"rating": 4
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					23.583209,
+					46.770490
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Herne Hill",
+				"description": "Featured in the film, this beautiful and unique piano was introduced to Herne Hill Station in 2012. It can be found in the underpass, just next to the flower shop.\nA recent Crowdfunding campaign run by the Herne Hill Forum raised enough money to enable a brand new piano to be bought for location - and will be introduced in early October!\n",
+				"image": "https://lh5.googleusercontent.com/proxy/7L_W-TFgUymEbZ0ytploxLPIGeBYXHRiWidG8XvJeF2tjtlj4TYZzGN027pSw6u4_2D68cLOjMaYEy7Mfd4pGNotRHXszlseUbU0O5X4GG0gyB1CLKSwqQ",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.10226,
+					51.4533
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "St Pancras, The Arcade",
+				"description": "Situated next to the Eurostar entrance on the main shopping arcade, this great sounding piano is very well maintained by the station, and extremely popular with commuters passing through. \nThe first piano here was introduced in 2009, and unlike some of the other public pianos, it is accessible throughout the night.",
+				"image": "https://lh3.googleusercontent.com/proxy/h5lURQRvlG-GVh17KpJfv5giALBW6F93eTqsu_SA_dXNJjWxjKKX7nbR2jWfGNkwdiYQ8VgDzVDWe5wrHH_l4daJJmVn247Rngd5LmfboC75TCsAnMCI",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.126133,
+					51.531427
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "St Pancras no. 2, The Arcade",
+				"description": "There are three pianos in total at St Pancras International. This one is further down towards the trains, next to the MAC shop. \n\nLike the other two pianos and the station that they're in, this piano is available to use 24 hours a day. ",
+				"image": "https://lh4.googleusercontent.com/proxy/BQ1Omaftqp9bYMezLjCu0zvPaEwQxe5i-xQlhGU056J2tjWU-napQloLEDo2Szcgvh11DhQEadJBWhSfC7fY4F55SLac2AYP21hwiB2-g8_e0N83aIeE4eqPS2P9pqP0ZaKj4SwD",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.1265144,
+					51.531801
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "St Pancras no. 3",
+				"description": "This last St Pancras piano is, like the other two, maintained by the station. At the moment it's located just by the Starbucks, overlooking the escalators that go down to the underground or up to platforms 11-13.",
+				"image": "https://lh4.googleusercontent.com/proxy/hHzRTJ3460BG7Yl6GGdQUvw4ecfhoJ6VcqbB_gTdor0CWK30tGTQS2GOm4OcKlmDMft8AX4rTL2qI34nl-rXvNu8yzQemWFFtg0v0GWj-48HOBjvhcGD",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.1263642,
+					51.5324417
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "The Oracle, Reading",
+				"description": "This piano is situated just outside the Five Guys restaurant in the Oracle shopping centre, up on the first floor. \nIt's another great sounding, relatively new piano, available for all to play during the centres opening hours. ",
+				"image": "https://lh5.googleusercontent.com/proxy/bEDacZzbyecDCH6UlnS595yWKvd6dGRpBKL8uMu3pod9JPiuawogsM5qwyen8oJrYeLtAaecoqtkA7jCJwLJ0obMwuwf81gffzPngA7mZHuVi-OBUC7F3fvDeeEd",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.9717858,
+					51.4531846
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Forest Hill",
+				"description": "The Forest Hill piano is just by the station under the bicycle shelter. It was introduced as part of the 'Jack in the Box' community project. \nSee the Forest Hill society's website: http://www.foresthillsociety.com/2014/04/forest-hill-street-piano.html",
+				"image": "https://lh5.googleusercontent.com/proxy/Vu3jngq5cbpr4XRpfdNAPko9FyokCzjhpyHoOkJ---MODwSBlMnFaaUIs2ZWB7onaHZ8HQRJ8WUqpIvsQUUPQzqjIBth0fX4UveWDrtKmGN8TjLcDL2CORDfGkS9eqg2yg",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.0535235,
+					51.4392327
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Crossrail Place Sky Garden, Canary Wharf",
+				"description": "You can find this piano upstairs in the Crossrail Place building. It moves about, so you might have to look around but it shouldn't be too tricky. \n\nIn the past Fabio Tedde - the 'Pianist Without Borders', who features in our doc - has called impromptu jam sessions here. The second and third pictures are of one such evening, and if he calls some more we HIGHLY recommend you going if you can!! Have a look at Fabio's website here: http://www.pianistwithoutborders.com/",
+				"image": "https://lh6.googleusercontent.com/proxy/vXuEI2SMqQVim8Z8O75G80DnoF684j3GDOjXQYKlNXbd8aCHUQRViwKV-mAGm2FvdkTRW70syFoQysMmnzknHdNOE6NLUaI1I10Z7R0aK4RNmS8GEmEz",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.0163642,
+					51.5059946
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Marylebone Station",
+				"description": "This upright in Marylebone National Rail station is lovely and not used very often - maybe a good option if you want to get some playing time. We've heard that it was donated to the station by a train driver who thought it would be a welcome addition for commuters and station workers alike. \n\nIf you have time, have a look at this really great feature in the Marylebone Journal who interviewed a few players: http://www.marylebonevillage.com/marylebone-journal/key-workers\n",
+				"image": "https://lh3.googleusercontent.com/proxy/hopuZLn8uILytAMwQBQ7tYW_9Qka7OEsnKRTFS9bgUczORvlT9R3WJ9kKMvLxJ-VSFSg4msnh1MPbFykUNdfac_HeEk7rU5oFk7B6GVgTDRbQqtDUc0E",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.1632761,
+					51.5225573
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Crossrail Place West End Lobby, First Floor, Canary Wharf",
+				"description": "This piano is amazing. It was designed by Stelios Manganis as part of Canary Wharf's Play Me, I'm Your's exhibition by Luke Jerram in 2015. \n\nHave a look at Manganis' website - he's done some really interesting stuff: http://www.steliosmanganis.com/\n",
+				"image": "https://lh3.googleusercontent.com/proxy/dTA-eW8HkHcl2oofSO9hRkjfALQxJEgdJJaCQm18NNBjCSQmqef7mg68IUSb47RVFzBtM7cYrGF_2OxRnSh_Jdic21Rby3SH2YJhoxO9aUa9WVKTUMuO",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.019033,
+					51.5062817
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Sheffield Train Station",
+				"description": "There are TWO lovely upright pianos in Sheffield train station available to play. They are opposite the Upper Crust and Caffe Ritazza. ",
+				"image": "https://lh4.googleusercontent.com/proxy/grlBm_d-q8H5aMitpRtMgOs11FhDMmSK6LCMJukjO-2yZKTGxNFoVH0pymYIq_5gg6m1hSiaZWSc1_ac2fp74M2fKjecEl6vV8EpY-cGhJ9wFwWoLRUyz3wm8-Xqz2suK9AGMTJW",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-1.4629468,
+					53.3780284
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Brighton Station",
+				"description": "Brighton Train Station's upright street piano can be found just by one of the main entrances, by the Upper Crust.",
+				"image": "https://lh6.googleusercontent.com/proxy/Rb_H7Hhzl8gCVc82iL21SarRtNeld_JplcBFUITFYEMOwXBk66Ldeot4OQ71JemY2a0OucM1PbhMHVv5XDU41qAHK2cjoV89V-6mMniANsnXci66mUFbluXs4M4WwsuIbDK9HJXb",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.14125,
+					50.829
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Heathrow Airport Terminal 4",
+				"description": "We've heard this piano is great to play - but also that it moves around a lot! If you know it's current exact location let us know! (on twitter @livestreetpiano or facebook Instrument of Change: Street Piano)",
+				"image": "https://lh4.googleusercontent.com/Hm6wrhgyB0dD6lvHlAjt_CwWrH_kp_JN8G6IlRsZZ67Oovv0v2_QpH5-7Vyry3_EmiRnnJI5nS-BMJFVwliSvRyXbmvY3r4-XQbb8Iq77klagm5dLk9Vi5R4l_ljR4wH",
+				"source": "http://streetpianofilm.co.uk/street-piano-map/"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.4474782,
+					51.4596099
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Chastain Park",
+				"description": "Find and play \"Janssen\" in the pavilion next to the playground. (Dudley Lane and W. Wieuca Rd.).  Artist:  Sergey Cherep.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh4.googleusercontent.com/TobNAy47qaOQUbKAQ8Zwoi0OyN_DmZ8Xd1G5gvD4PbQBOh3IH0glsYNZ-MAYfBEowJaGPyqcbxrCrsQxD-Z36ehuapMAbIboTRp4P5xtPNC4aCzx6Hdg0u4S5vVEpaf9",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.3894333,
+					33.8773352
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Woodruff Arts Center-Sifly Piazza",
+				"description": "Find and play \"Carly\" in the breezeway at the North entrance to the Memorial Arts Building, by the Box Office. Artists: Theresa Dean, Courtney Denis, Springmont School students, alumni and faculty.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org)",
+				"image": "https://lh3.googleusercontent.com/S3Z9DkgibXECHWP1cuj_58vt7bXuYxIwwT3__Xn1KKCY8Xfd-D0ZlZDssQ210yymSo35h6IGbiqkBqX7ywxIPZGM9lpihKaH41WqaiOvqHcigDOFm7-M5B3rmYOoNk8",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.38565399999999,
+					33.790052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Woodruff Arts Center-Callaway Plaza",
+				"description": "Find and play \"Liam\" along the south side of the Memorial Arts building near the door to the Symphony Store, opposite the Robert Woodruff statue. (Peachtree Street, near the corner of 15th Street.)  Artist: Liam Agans. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh4.googleusercontent.com/nV4vH7RlPHCgiAU_zv8FBZo5GbyyzDtZf7qtq_KSuDtddjVFpTJ6pXNl_hE_R-EErCwGXyuhKAGZ5ye0qYub0hBp40x5LwXCg1IoEKQaJrEdzI6K4cE1mBu9Z2u8HfAD",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.38565399999999,
+					33.790052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Colony Square",
+				"description": "Find and play \"Harmony\" in the plaza off Peachtree Street near the MIDTOWN letters. Artist:  Max Lebven.  Due to a local noise ordinance, please refrain from playing Harmony after 8pm.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh3.googleusercontent.com/BE4XMHDNB_wh8yiEVuLufXsj4KpZENohX2vWz-dIq_dswPnimqG1SZ_y1GPjTPncYvf_2DLvjcFx-lhzzL3-Ra3QWffn5ZQifvXBiM3bnBolPcCWKc9t098wHZkRMnnK",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.38269960000002,
+					33.78694409999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Dunwoody Nature Center",
+				"description": "Find and play \"Bennett\" along Wildcat Creek, across from the Meadow.  Artist:  Kelly Thames Mauldin.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh4.googleusercontent.com/XMvejmVTNEZs2LJtLujyjEu6Xd8xCP0fhHT8hQXWkle8mjWD4oQdY7ag8chYfeA6Tv50EDOVOoefznP3_kk6tmSF6BsQp2DKrCynZyDhv_cMx3QloklwZSYnu2XLCac",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.33284100000003,
+					33.9566697
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Chamblee Rail Trail",
+				"description": "Find and play \"Irving\" on the Rail Trail under Clairmont Rd near Peachtree Industrial Blvd behind the Chamblee Tucker Rd Wal-Mart.  Designed by Kent Nulty of ARTSCAPE!.  Painted by the Chamblee community during the Rail Trail Makers Festival 2017.   Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.3127619,
+					33.8882418
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ashford Park, Brookhaven",
+				"description": "Find and play \"Aragon\" on the porch of the community building.  Artist:  Doug Smith and the Midtown International School Arts Department and students.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh3.googleusercontent.com/mBH4w1izRA50OQY9EdUm0iCQom6NaS37MgM2R9wYEZ9t2rLZCofW6eLOVfR6KN5mus3fYsgz-oxeIdmXxk6BgILkCSsjI2a7wKv0BcHBYzPKRLI3GzvPxMhTlqry2QMO",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.3173878,
+					33.8721275
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "East Cobb Park",
+				"description": "Find and play \"Sunny\" in the Upper Pavilion near the maintenance building. Artist:  Kent Nulty, Contributing Artists:  the 2017 ARTSCAPE! summer campers. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh6.googleusercontent.com/1q2pJ6hSYl1seV8jNxKt2NVTrVC9dNTWLNnThxQULjLh1KFp7D1_vBWnloDkiUnagHCqmaevSckO6JFxxmlhmWaiWJV_uznpBdAdkLcFUYK35Gof4_CO1wzg1dUoVNXHMw",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.452741,
+					33.9778026
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Ponce City Market",
+				"description": "Find and play \"Cornelius\" on the 3rd level of Ponce City Market near the Bike Valet just off the BeltLine.  Artist Theresa Dean.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"image": "https://lh3.googleusercontent.com/Qfe0tl2tXqz-nFdEDdDpK7jGCTRVTXLrUwMGnNmzcgMFYR47SLWckHpXFaRHWba2nPKapesm53DiGMa5Aad2JdwVbjg2dQJVd02LozgLpWqHdRiZpNfcHTVlY_ntqA7Z",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.36652700000002,
+					33.77194589999999
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Regal Cinemas Atlantic Station 18 IMAX & RPX",
+				"description": "Find and play \"Dottie\" by the box office.  Artist:  Aleigha Reott.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.39624900000001,
+					33.793795
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Cogburn Road Park",
+				"description": "Find and play \"Flannery\" under the pavilion. Artist: Wendi Schutt. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.28484349999997,
+					34.0939914
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Egg Harbor Cafe, East Cobb",
+				"description": "Find and play \"Tommy\" in front of the restaurant. Artist: Angela Decker Lockman. Contributing Artists:  Cate McCoy and Aubrey Ward.  Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.41515679999998,
+					33.9661525
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Sam Flax Art Supply",
+				"description": "Indoor piano.  Artist:  Tania Jones.  Placed courtesy of Pianos For Peace.",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.39211820000003,
+					33.8009176
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "MARTA Arts Center Station",
+				"description": "Located on The Porch at the Arts Center Station.  Artist:  Jeremy Ray.  Placed courtesy of the Midtown Alliance.",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.38700779999999,
+					33.789304
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Von Maur Department Store in Perimeter Mall",
+				"description": "Indoor grand piano on the 1st floor near the escalator.",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "2016"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.34266939999998,
+					33.9245628
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"title": "Wills Park Equestrian Center",
+				"description": "Coming soon. Find and play the piano in the food pavilion. Artist: Sandy Barth. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "Coming soon..."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.31176240000002,
+					34.0690489
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Rock Mill Park",
+				"description": "Coming soon. Find and play the piano in the pavilion. Artist: Ben Hollingsworth. Placed courtesy of Play Me Again Pianos (www.PlayMeAgainPianos.org).\n",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "Coming soon..."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.2709165,
+					34.0521279
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Peachtree Station",
+				"description": "No description.",
+				"source": "http://www.playmeagainpianos.org/map/",
+				"year": "Coming soon..."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-84.39259700000002,
+					33.7994002
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "Westquay, Southampton, UK",
+				"description": "Piano at 1st floor",
+				"source": "Piano Map Contributors",
+				"year": "2018"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.4057689396727255,
+					50.9040329380269
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"title": "7 University Rd, Southampton SO17 1TR, UK",
+				"description": "Piano in Building 32, 3rd floor",
+				"source": "Piano Map Contributors",
+				"year": "Coming soon..."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.3966711322715355,
+					50.935820138643194
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"source": "Johnny B.@https://ionicabizau.net",
+				"year": "2018",
+				"title": "Digital Piano at IBIS Hotel",
+				"description": "At the reception they have a Yamaha YDP143.\n\nBtw, there is a acoustic guitar too."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.090424286817097,
+					48.89624243006034
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"source": "Johnny B.@https://ionicabizau.net",
+				"year": "2018",
+				"title": "Digital Piano at IBIS Hotel",
+				"description": "At the reception they have a Yamaha YDP143.\n\nBtw, there is a acoustic guitar too.",
+				"website": "https://www.booking.com/hotel/fr/ibis-saint-germain-en-laye.en-gb.html"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.090424286817097,
+					48.89624243006034
+				]
+			}
+		}, {
+			"type": "Feature",
+			"properties": {
+				"year": "2019",
+				"title": "Gare de l'Est",
+				"description": "Place du 11 novembre 1918, 75010 Paris, France -- Piano en libre service\n\nSitué dans le Hall Central"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					2.3593812954898086,
+					48.87681367060976
+				]
+			}
+		}
+	]
 }
