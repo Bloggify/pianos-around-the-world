@@ -698,5 +698,19 @@
                 48.89624243006034
             ]
         }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "year": "2019",
+            "title": "Gare de l'Est",
+            "description": "Place du 11 novembre 1918, 75010 Paris, France -- Piano en libre service\n\nSitué dans le Hall Central"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3593812954898086,
+                48.87681367060976
+            ]
+        }
     }]
 }
